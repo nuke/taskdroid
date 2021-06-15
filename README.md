@@ -1,5 +1,9 @@
-RxDroid - A medication reminder
+TaskDroid - A regular task reminder
 ===============================
+
+This will be a slight tweak of RxDroid to remind users of daily tasks. This is a small personal project, and I have limited coding experience, so I'm not sure how far I'll get on it. 
+
+Information on RxDroid is as follows:
 
 **!!! Please note that development on RxDroid is currently limited to fixing bugs !!!**
 
